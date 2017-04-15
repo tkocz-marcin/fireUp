@@ -1,0 +1,6 @@
+const information = [{
+            		quote: "<p>Innovation leads one to see the new in the old and distinguishes the ingenious from the ingenuous.</p>",
+            		author: "Paul Rand",
+            		lastDateInMiliseconds: 1492260486640,
+            		amount: 6,
+            	}]
